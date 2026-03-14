@@ -9,13 +9,13 @@ Supports multiple car brands and models
 Inputs like mileage, engine CC, power, fuel type, transmission, owner type, etc.
 Machine Learning based prediction model
 
-#🛠 Tech Stack
+# 🛠 Tech Stack
 Python
 Machine Learning (Scikit-learn / Pandas / NumPy)
 Flask (Backend)
 HTML, CSS, JavaScript (Frontend)
 
-#📊 Input Parameters
+# 📊 Input Parameters
 Car Brand & Model
 Manufactured Year
 Kilometers Driven
@@ -27,9 +27,9 @@ Max Power
 Mileage
 Seats
 
-#🎯 Output
+# 🎯 Output
 Estimated selling price of the car in Indian Rupees (₹).
 
-#📷 Screenshot
+# 📷 Screenshot
 
-
+ 
