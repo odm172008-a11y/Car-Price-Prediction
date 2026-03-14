@@ -30,6 +30,5 @@ Seats
 # 🎯 Output
 Estimated selling price of the car in Indian Rupees (₹).
 
-# 📷 Screenshot
 
  
