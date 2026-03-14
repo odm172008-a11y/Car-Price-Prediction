@@ -2,7 +2,7 @@
 A Machine Learning web application that predicts the estimated selling price of a used car based on various features such as brand, model, manufacturing year, mileage, fuel type, transmission type, engine capacity, and more.
 The application allows users to enter car details through an interactive web interface and instantly get a predicted market price using a trained machine learning model.
 
-#✨ Features
+# ✨ Features
 Predict used car selling price instantly
 User-friendly web interfac
 Supports multiple car brands and models
